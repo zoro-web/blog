@@ -15,4 +15,4 @@
 * [你不知道的JavaScript（上卷）--读书笔记](https://github.com/zoro-web/blog/issues/6)
 
 ## 浏览器
-* [关键渲染路径](https://github.com/zoro-web/blog/issues/7)
+* [关键渲染路径](https://github.com/zoro-web/blog/issues/8)
