@@ -3,6 +3,7 @@
 
 > 关注前端知识体系(HTML5, CSS3, Javascript, Nodejs, Webpack, ES6, Vue) 等
 ## JavaScript
+* [JavaScript执行机制](https://github.com/zoro-web/blog/issues/12)
 * [JavaScript数据结构和算法](https://github.com/zoro-web/blog/issues/4)
 
 ## Vue
@@ -18,5 +19,6 @@
 ## 性能优化
 * [前端性能优化总结](https://github.com/zoro-web/blog/issues/11)
 
-## 读书笔记
+## 其他
+* [优秀书籍和文章整理](https://github.com/zoro-web/blog/issues/9)
 * [你不知道的JavaScript（上卷）--读书笔记](https://github.com/zoro-web/blog/issues/6)
