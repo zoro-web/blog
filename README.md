@@ -11,6 +11,7 @@
 
 ## HTTP协议
 * [HTTP原理和SSL原理](https://github.com/zoro-web/blog/issues/3)
+* [HTTP协议的发展历程](https://github.com/zoro-web/blog/issues/13)
 
 ## 浏览器
 * [关键渲染路径](https://github.com/zoro-web/blog/issues/8)
