@@ -1,7 +1,7 @@
 前端文章
 ============
+> 关注前端知识体系(HTML, CSS, Javascript, Nodejs, 浏览器, 数据结构和算法, 协议, Vue) 等
 
-> 关注前端知识体系(HTML5, CSS3, Javascript, Nodejs, Webpack, ES6, Vue) 等
 ## JavaScript
 * [JavaScript执行机制](https://github.com/zoro-web/blog/issues/12)
 * [JavaScript数据结构和算法](https://github.com/zoro-web/blog/issues/4)
